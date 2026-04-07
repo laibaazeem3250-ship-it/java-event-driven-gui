@@ -9,7 +9,7 @@
 
 | App | Preview |
 |-----|---------|
-| Hello Button Event | ![HelloAndGoodbye](HelloAndGoodbye.png) |
+| Hello Button Event | ![HelloAndGoodbye](Hello&Goodbye.png)|
 
 ---
 
