@@ -27,6 +27,7 @@ public class HelloAndGoodbye extends JFrame {
      setSize(300, 200);
      // ...
  }
+ 
 
  // 4. Create the Listener (The "Brain")
  // This is an 'inner class' (a class inside a class)
