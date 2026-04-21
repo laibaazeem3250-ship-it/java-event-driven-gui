@@ -1,4 +1,4 @@
-# ☕ Java Event-Driven GUI Programming
+#  Java Event-Driven GUI Programming
 
 > Building interactive Java GUIs using Swing — learning how buttons, 
 > events, and listeners work together in real-time applications.
