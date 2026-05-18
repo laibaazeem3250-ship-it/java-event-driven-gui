@@ -2,7 +2,6 @@
 
 > Building interactive Java GUIs using Swing — learning how buttons, 
 > events, and listeners work together in real-time applications.
-
 ---
 
 ## 📸 Screenshots
